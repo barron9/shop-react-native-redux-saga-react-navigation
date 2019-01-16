@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "productname": "kyrie",
+            "imageuri": "require('./mocksource/kyrie.jpg')",
+            "price": "₺100"
+        },
+        {
+            "productname": "lebron s",
+            "imageuri": "require('./mocksource/lebron16.jpg')",
+            "price": "₺320"
+        },
+        {
+            "productname": "lebron j",
+            "imageuri": "require('./mocksource/lebron12.jpg')",
+            "price": "₺420"
+        },
+        {
+            "productname": "lebron",
+            "imageuri": "require('./mocksource/lebron.jpg')",
+            "price": "₺330"
+        },
+        {
+            "productname": "hyperdunk",
+            "imageuri": "require('./mocksource/hyperdunk.jpg')",
+            "price": "₺120"
+        },
+        {
+            "productname": "pendle",
+            "imageuri": "require('./mocksource/pendle.jpg')",
+            "price": "₺220"
+        }
+    ]
+}
